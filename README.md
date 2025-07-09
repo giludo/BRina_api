@@ -1,1 +1,1 @@
-# BRina_api
+# diagnosis-api
